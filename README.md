@@ -16,15 +16,7 @@
 
 2.  **安装项目依赖:**
     ```bash
-    pip install -r requirements.txt
-    ```
-
-    `requirements.txt` 文件内容如下：
-    ```
-    torch
-    requests
-    matplotlib
-    pyyaml
+    pip install -r requirements.txt #这只是参考，实际上提供的requirements.txt是作者本地环境内所有的第三方库（远多于项目实际所需库），该项目较为经典，请用户自行安装项目所需要的库运行即可
     ```
 
 ## 3. 运行说明
