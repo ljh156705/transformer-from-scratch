@@ -68,7 +68,7 @@ training:
 
 ## 4. 硬件要求
 
-*   **GPU:** 建议使用 NVIDIA GPU 以加速训练过程。本项目在 NVIDIA GPU (例如，RTX 3060 或更高版本) 上进行了测试。
+*   **GPU:** 建议使用 NVIDIA GPU 以加速训练过程。本项目在 NVIDIA GPU (RTX 4070) 上进行了测试。
 *   **显存:** 至少 6GB 显存。
 *   **CPU:** 任意现代多核 CPU。
 *   **内存:** 至少 8GB RAM。
